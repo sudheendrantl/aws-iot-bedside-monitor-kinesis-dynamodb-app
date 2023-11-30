@@ -1,0 +1,7 @@
+{
+    "rules": [
+        {"type": "Temperature", "avg_max": 98, "alert_threshold": 1},
+        {"type": "HeartRate", "avg_min": 85, "alert_threshold": 1},
+        {"type": "SPO2", "avg_min": 91, "alert_threshold": 1}
+    ]
+}
